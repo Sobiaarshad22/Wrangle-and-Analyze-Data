@@ -1,0 +1,10 @@
+https://drawingfromdata.com/pandas/dtypes/finding-invalid-values-in-numerical-columns.html
+
+https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html
+
+https://knowyourmeme.com/memes/theyre-good-dogs-brent
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
+https://towardsdatascience.com/reproducible-data-analysis-in-python-without-coding-806a7652dd34
+
+https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o
